@@ -2,3 +2,5 @@ pandas
 textblob
 nltk
 emoji
+scikit-learn
+gensim
